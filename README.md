@@ -1,7 +1,7 @@
 # Pratik Valani
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="50%" height="auto" alt="Profile Image" />
+<div align="center" style="margin-bottom: 20px">
+  <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="auto" height="auto" alt="Profile Image" />
 </div>
 <div align="center" style="margin-top: 20px;">
   <a href="https://git.io/typing-svg">
