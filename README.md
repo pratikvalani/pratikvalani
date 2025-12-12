@@ -1,8 +1,10 @@
 # Pratik Valani
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Header Image">
-</p>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=600&lines=Welcome+to+the+github+profile+of+Pratik+Valani" alt="Typing SVG" />
+  </a>
+</div>
 
 
 
@@ -32,6 +34,16 @@ Here are some of the tools and technologies I work with:
 - **Programming Languages**: C, Java, Python, Bash
 - **Web Development**: HTML, CSS
 - **Operating Systems**: Linux, Windows
+
+<h3 align="left">🛠️ Tools & Technologies</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF7A59?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-2E5E9A?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+</div>
 
 ---
 
